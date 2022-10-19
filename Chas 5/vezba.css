@@ -1,0 +1,29 @@
+.h21 {
+    font-size: 20px;
+    color: red;
+    background-color: gold;
+}
+
+.h22 {
+    font-size: 30px;
+    color: blue;
+    background-color: darkgreen;
+}
+
+.h23 {
+    font-size: 40px;
+    background-image: url(./images/more-leaves.png);
+    color: salmon;
+}
+
+.h24 {
+    font-size: 50px;
+    background-image: url(./images/more-leaves-on-green.png);
+    color: green;
+}
+
+.h25 {
+    font-size: 60px;
+    background-image: url(./images/moroccan-flower.png);
+    color: darkmagenta;
+}

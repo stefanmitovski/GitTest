@@ -1,0 +1,32 @@
+body {
+    /* background-color: red; */
+    /* background-color: rgb(50,12,195, 0.5); */
+    /* background-color: #3b5998; */
+    /* background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/moroccan-flower-dark.png)  ; */
+    /* background-image: url("../../images/moroccan-flower.png"); */
+    background-image: url(../../images/istockphoto-564585966-612x612.jpg);
+    /* background-repeat: no-repeat; */
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: 200px ;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+}
+
+#language{
+    font-size: 80px;
+    color: yellow;
+}
+
+
+#text{
+color: blue;
+}
+
+.some-text{
+
+    color: blueviolet;
+}
