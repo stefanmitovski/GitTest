@@ -1,0 +1,126 @@
+body {
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+    margin: 5px;
+}
+
+.block_1 {
+    width: calc(25% - 10px);
+    height: calc(25% - 10px);
+    display: inline-block;
+    margin: 5px;
+    color: white;
+
+}
+
+.block_2 {
+    width: calc(25% * 3 - 10px);
+    height: calc(25% - 10px);
+    display: inline-block;
+    margin: 5px;
+    color: white;
+}
+
+.block_3 {
+    width: calc(25% * 2 - 10px);
+    height: calc(25% - 10px);
+    display: inline-block;
+    margin: 5px;
+    color: white;
+
+}
+
+.block_4 {
+    width: calc(25% - 10px);
+    height: calc(75% - 10px);
+    display: inline-block;
+    margin: 5px;
+    color: white;
+}
+
+.block_5 {
+    width: calc(100% / 4 - 10px);
+    height: calc(100% / 4*2 - 10px);
+    display: inline-block;
+    margin: 5px;
+    color: white;
+}
+
+.block_6 {
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+    display: inline-block;
+    margin: 5px;
+    color: white;
+}
+
+
+.gold {
+    background-color: gold;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.orange {
+    background-color: orangered;
+}
+
+.navy {
+    background-color: navy;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.centar {
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+}
+
+.centar_left {
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+}
+
+.centar_right {
+    width: 50%;
+    height: 100%;
+    display: inline-block;
+}
+
+.corner{
+    width: 25%;
+    height: 50%;
+    display: inline-block;
+}
+.corner_top{
+    width: 100%;
+    height: 50%;
+    display: inline-block;
+}
+.corner_bottom{
+    width: 100%;
+    height: 50%;
+    display: inline-block;
+}
