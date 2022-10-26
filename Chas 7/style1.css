@@ -1,0 +1,47 @@
+body {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+
+}
+
+.parent {
+    width: calc(800px + 20px);
+    height: calc(800px + 20px);
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box {
+    height: calc(800px - 40px);
+    width: calc(780px/ 3 - 40px);
+    background-color: yellow;
+    display: flex;
+    margin: 20px;
+
+}
+
+#box-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    
+}
+#box-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+#box-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;  
+    /* flex-grow: 100; */
+}
