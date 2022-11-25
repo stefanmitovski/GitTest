@@ -9,3 +9,4 @@ console.log(car.model);
 console.log(car.godina);
 
 console.log(car['model'])
+
