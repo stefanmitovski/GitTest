@@ -29,16 +29,29 @@
 //     return "Hello World";
 // }
 
-alert("Vnesi gi godinite na tvoeto kuce");
-var dog_years=prompt();
+// alert("Vnesi gi godinite na tvoeto kuce");
+// var dog_years=prompt();
 
 
-function PuppuCalculator(){
-    godina=dog_years*7;
-    return "My dog is " + godina + " human years";
+// function PuppuCalculator(){
+//     godina=dog_years*7;
+//     return "My dog is " + godina + " human years";
+// }
+
+// console.log(PuppuCalculator());
+
+
+function SayHello(name){
+    return `My name is ${name}`;
 }
 
-console.log(PuppuCalculator());
+// console.log(SayHello());
 
+function tellFortune(numChildren, partnerName,  geoLocation ,jobTitle){
+
+    return `You will be ${jobTitle} in ${geoLocation}, and married to ${partnerName} with ${numChildren}`;
+}
+
+console.log(tellFortune(10, "sda", "sdasd", "asdsad"));
 
 
