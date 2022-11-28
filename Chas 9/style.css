@@ -1,0 +1,25 @@
+html, body{
+    height: 5000px;
+}
+
+.red{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    /* opacity: 0.4; */
+    position: sticky;
+    left: 0;
+    top: 0;
+
+}
+
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 0;
+    top: 0;
+    /* transform: scale(1.5); */
+    /* transform: translate(20px, 50px) scale(1.5); */
+}
